@@ -8,4 +8,4 @@
 yukikwi/yukikwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Pachara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukikwi)](https://github.com/yukikwi/yukikwi)
+[![Pachara's GitHub stats](https://github-readme-stats-yukikwi.vercel.app/api?username=yukikwi)](https://github.com/yukikwi/yukikwi)
