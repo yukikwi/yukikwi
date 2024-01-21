@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pachara Chantawong
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Engineer @ KMUTT
 - 📫 How to reach me 
   - Facebook: https://www.facebook.com/pachara.chantawong/
