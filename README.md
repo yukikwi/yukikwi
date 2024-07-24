@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Pachara Chantawong
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Computer Engineer @ KMUTT
+- 💼 Software engineer at Looloo technology
 - 📫 How to reach me 
   - Facebook: https://www.facebook.com/pachara.chantawong/
 
